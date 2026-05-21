@@ -1,0 +1,28 @@
+{
+  "customer_01": [
+    {
+      "url": "http://zero.webappsecurity.com/",
+      "title": "Mr",
+      "firstName": "Soham",
+      "lastName": "Jadhav",
+      "email": "Jadhav@test.com",
+      "occupation": "Student",
+      "dateOfBirth": "11-01-1981",
+      "subject": "Subject feedback",
+      "comment": "This is good feedback from Soham"
+    }
+  ],
+  "customer_02": [
+    {
+      "url": "http://zero.webappsecurity.com/",
+      "title": "Mr",
+      "firstName": "Reyaansh",
+      "lastName": "Jadhav",
+      "email": "RJadhav@test.com",
+      "occupation": "Student",
+      "dateOfBirth": "12-02-1982",
+      "subject": "Subject feedback",
+      "comment": "This is good feedback from Reyaansh"
+    }
+  ]
+}

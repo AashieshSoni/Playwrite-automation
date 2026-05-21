@@ -1,0 +1,19 @@
+{
+  "name": "playwright-typescript-pageobject-zerobank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "trace": "npx playwright show-trace",
+    "report": "npx playwright show-report",
+    "codegen": "npx playwright codegen http://zero.webappsecurity.com/"
+  },
+  "keywords": [],
+  "author": "Ashish Soni",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3",
+    "@types/node": "^20.12.8"
+  }
+}
