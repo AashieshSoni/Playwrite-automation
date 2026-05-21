@@ -1,0 +1,9 @@
+TestName,Run,Mode
+CreateAccountTest,YES,parallel
+LoginTest,YES,parallel
+RESTUserTest,NO,serial
+ContactUsTest,YES,parallel
+DatabaseTest,NO,serial
+DownloadTest,YES,
+SOAPAccountServiceTest,YES,serial
+ImageCompareTest,YES,parallel
