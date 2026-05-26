@@ -11,7 +11,7 @@
 Restful-booker is a Create Read Update Delete Web REST API that comes with authentication features and loaded with a bunch of bugs for you to explore. 
 >
 
-## PLaywright features
+## Playwright features
 API testing using:
 
 - Playwright https://playwright.dev/
